@@ -10,13 +10,13 @@
     "Other"
   ],
   "activationEvents": [
-    "onCommand:vs-code-extension-prac-02.helloWorld"
+    "onCommand:weeb.helloWorld"
   ],
   "main": "./dist/extension.js",
   "contributes": {
     "commands": [
       {
-        "command": "vs-code-extension-prac-02.helloWorld",
+        "command": "weeb.helloWorld",
         "title": "Hello World"
       }
     ]
