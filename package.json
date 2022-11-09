@@ -3,6 +3,7 @@
   "displayName": "vs-code-extension-prac-02",
   "description": "testing",
   "version": "0.0.1",
+  "publisher": "nizthedev",
   "engines": {
     "vscode": "^1.73.0"
   },
